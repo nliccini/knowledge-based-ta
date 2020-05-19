@@ -1,0 +1,717 @@
+[
+    {
+        "question":"when is the project due",
+        "object":"project",
+        "data_requested":"DUEDATE"
+    },
+   {
+        "question":"when is the first project due",
+        "object":"first project",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is project 1 due",
+        "object":"project 1",
+        "data_requested":"DUEDATE"
+    },
+   {
+        "question":"what is the due date for project 1",
+        "object":"project 1",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is the project released",
+        "object":"project",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"how much is the project worth",
+        "object":"project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"where do I turn in my project",
+        "object":"project",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"where is the project specification",
+        "object":"project specification",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"how long do we have to complete a project",
+        "object":"project",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"where do i submit the project",
+        "object":"project",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"what percentage of my grade is the project worth",
+        "object":"project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"how long do i have to work on the project",
+        "object":"project",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"when can i turn in my assignment",
+        "object":"assignment",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is assignment 1 available",
+        "object":"assignment 1",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"when can i work on assignment 3",
+        "object":"assignment 3",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"where do i submit my duck",
+        "object":"duck",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"what time is the racecar open for me to work on",
+        "object":"racecar",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"how much is project 3 worth",
+        "object":"project 3",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"how do i complete the survey",
+        "object":"survey",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"when can i work on the pig",
+        "object":"pig",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"how early can i start my chicken",
+        "object":"chicken",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"where do i submit the longhorn steakhouse",
+        "object":"longhorn steakhouse",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"how does the project affect my grade",
+        "object":"project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"until when can i work on the barbecue",
+        "object":"barbecue",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"when is Project 2 available",
+        "object":"project 2",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"what day is project 3 due",
+        "object":"project 3",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when should i check if assignment 1 is available",
+        "object":"assignment 1",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"what site should i submit project 2 on the due date",
+        "object":"project 2",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"when is pig roast due",
+        "object":"pig roast",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"how do i turn in cardi b",
+        "object":"cardi b",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"what day do i hand in my poodle",
+        "object":"poodle",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"what is the dikaia there brother worth",
+        "object":"dikaia there brother",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"how much time can i spend doing nothing",
+        "object":"nothing",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"until when can i submit my paper",
+        "object":"paper",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"can i turn in my paper next week",
+        "object":"paper",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"how much time do i have to work on my paper",
+        "object":"paper",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"how do i submit my paper",
+        "object":"paper",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"what day can i return my paper",
+        "object":"paper",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when did i go by train to submit my paper",
+        "object":"paper",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"what do i submit for project 1",
+        "object":"project 1",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"what day is wet friday released",
+        "object":"wet friday",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"when are crush party invites released",
+        "object":"crush party invites",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"how does my cat affect my grade",
+        "object":"cat",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"when after the release date is the project due",
+        "object":"project",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"how many days after the release date can i work on the project",
+        "object":"project",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"what should i submit on the day project 3 is due",
+        "object":"project 3",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"where on Canvas do i upload my paper",
+        "object":"paper",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"what time can i upload the final project",
+        "object":"final project",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"what of the many papers is assignment 2 worth",
+        "object":"assignment 2",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"when should my friend submit his project",
+        "object":"project",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when did the syllabus indicate project 3 is due",
+        "object":"project 3",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"how long can i take to work on my first project",
+        "object":"first project",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"when does Canvas say i need to submit the paper",
+        "object":"paper",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is the space shuttle due",
+        "object":"space shuttle",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is professor goel released",
+        "object":"professor goel",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"what percentage of my grade is professor goel worth",
+        "object":"professor goel",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"how much time can i work on the grade",
+        "object":"grade",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"when can i hand in my hand",
+        "object":"hand",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"where can i turn in my monkey",
+        "object":"monkey",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"how much longer can i work on the dog",
+        "object":"dog",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"how will the wine affect my class average",
+        "object":"wine",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"what will the wine do to my grade",
+        "object":"wine",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"what day will the paper be due",
+        "object":"paper",
+        "data_requested":"DUEDATE"
+    },
+    {
+      "question": "when will the release date for project 2 be",
+      "object": "project 2",
+      "data_requested": "RELEASEDATE"
+    },
+    {
+        "question":"when can i expect to start working on project 2",
+        "object":"project 2",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+      "question": "where can i download the milk",
+      "object": "milk",
+      "data_requested": "PROCESS"
+    },
+    {
+        "question":"what is the procedure for submitting the dog",
+        "object":"dog",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"how do i upload my paper",
+        "object":"paper",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"what does the syllabus say about submitting the giant report",
+        "object":"giant report",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"what is the process for submitting the midterm",
+        "object":"midterm",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"do you know where i can get the assignment",
+        "object":"assignment",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"how long do i have before i need to submit the exam",
+        "object":"exam",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"about how long can i work on the paper",
+        "object":"paper",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"when did professor goel say the paper is due",
+        "object":"paper",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when did the paper get assigned",
+        "object":"paper",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"what is the grade distribution for the paper",
+        "object":"paper",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"when can i start project 2",
+        "object":"project 2",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"how will project 2 affect my grade",
+        "object":"project 2",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"what is the duration i can work on the paper",
+        "object":"paper",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"what is the release date of project 4",
+        "object":"project 4",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"what is the due date of the paper",
+        "object":"paper",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"what is the weight of the paper",
+        "object":"paper",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"what is the process for the paper",
+        "object":"paper",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"how do i submit the paper",
+        "object":"paper",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"when do i submit the paper",
+        "object":"paper",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"what do i use to submit the paper",
+        "object":"paper",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"what website do i use for submitting the midterm",
+        "object":"midterm",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"when did the professor say this paper is due",
+        "object":"paper",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"what are the due dates for the projects",
+        "object":"projects",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is the last day i can work on the paper",
+        "object":"paper",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is the last project due",
+        "object":"last project",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"how do i get the last project",
+        "object":"last project",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"how important is the last project",
+        "object":"last project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"what will the last project do to my class average",
+        "object":"last project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"how are the questions going to affect the project",
+        "object":"questions",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"how much is the report worth for our project",
+        "object":"report",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"how do i find the rubric for this project",
+        "object":"rubric",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"where are the instructions found",
+        "object":"instructions",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"when are the instructions available online",
+        "object":"instructions",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"how can i get an A on the project",
+        "object":"project",
+        "data_requested":"PROCESS"
+    },
+    {
+    "question": "when will assignment 4 be released",
+        "object":"assignment 4",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+      "question": "when will assignment 1 be released",
+      "object":"assignment 1",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+      "question": "when can we begin working on project 1",
+      "object":"project 1",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+      "question": "when can we start on assignment 2",
+      "object":"assignment 2",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+      "question": "what week is the midterm",
+      "object":"midterm",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+      "question": "when can i download project 2",
+      "object":"project 2",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+      "question": "what day does assignment 3 start",
+      "object":"assignment 3",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+      "question": "when can we begin working on project 3",
+      "object":"project 3",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+      "question": "when will the final open",
+      "object":"final",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+      "question": "when is assignment 1 due",
+      "object":"assignment 1",
+        "data_requested":"DUEDATE"
+    },
+    {
+      "question": "when will project 1 need to be submitted",
+      "object":"project 1",
+        "data_requested":"DUEDATE"
+    },
+    {
+      "question": "when will i need to submit assignment 2",
+      "object":"assignment 2",
+        "data_requested":"DUEDATE"
+    },
+    {
+      "question": "when is the midterm due",
+      "object":"midterm",
+        "data_requested":"DUEDATE"
+    },
+    {
+      "question": "when should we have project 2 completed by",
+      "object":"project 2",
+        "data_requested":"DUEDATE"
+    },
+    {
+      "question": "when do I need to turn in assignment 3",
+      "object":"assignment 3",
+        "data_requested":"DUEDATE"
+    },
+    {
+      "question": "when will submissions close for project 3",
+      "object":"project 3",
+        "data_requested":"DUEDATE"
+    },
+    {
+      "question": "when do I need to turn in the final",
+      "object":"final",
+        "data_requested":"DUEDATE"
+    },
+    {
+      "question": "how much time is there for submitting assignment 1",
+      "object":"assignment 1",
+        "data_requested":"DURATION"
+    },
+    {
+      "question": "how long do we have to complete project 1",
+      "object":"project 1",
+        "data_requested":"DURATION"
+    },
+    {
+      "question": "how long do we have to finish assignment 2",
+      "object":"assignment 2",
+        "data_requested":"DURATION"
+    },
+    {
+      "question": "how long do we have to complete the midterm",
+      "object":"midterm",
+        "data_requested":"DURATION"
+    },
+    {
+      "question": "how long do we have to do project 2",
+      "object":"project 2",
+        "data_requested":"DURATION"
+    },
+    {
+      "question": "how many weeks to write assignment 3",
+      "object":"assignment 3",
+        "data_requested":"DURATION"
+    },
+    {
+      "question": "How many weeks to code project 3",
+      "object":"project 3",
+        "data_requested":"DURATION"
+    },
+    {
+      "question": "How many days to complete the final",
+      "object":"final",
+        "data_requested":"DURATION"
+    },
+    {
+      "question": "what percentage of my grade is assignment 1 worth",
+      "object":"assignment 1",
+        "data_requested":"WEIGHT"
+    },
+    {
+      "question": "how much is project 1 worth",
+      "object":"project 1",
+        "data_requested":"WEIGHT"
+    },
+    {
+      "question": "what is the weight of assignment 2",
+      "object":"assignment 2",
+        "data_requested":"WEIGHT"
+    },
+    {
+      "question": "how much will the midterm be worth",
+      "object":"midterm",
+        "data_requested":"WEIGHT"
+    },
+    {
+      "question": "what percentage of the total grade is project 2",
+      "object":"project 2",
+        "data_requested":"WEIGHT"
+    },
+    {
+      "question": "how much does assignment 3 contribute to my grade",
+      "object":"assignment 3",
+        "data_requested":"WEIGHT"
+    },
+    {
+      "question": "how much is project 3 contributing to my grade",
+      "object":"project 3",
+        "data_requested":"WEIGHT"
+    },
+    {
+      "question": "how much is the final worth",
+      "object":"final",
+        "data_requested":"WEIGHT"
+    },
+    {
+      "question": "what is the process for submitting assignment 1",
+      "object":"assignment 1",
+        "data_requested":"PROCESS"
+    },
+    {
+      "question": "what is the process of getting project 1",
+      "object":"project 1",
+        "data_requested":"PROCESS"
+    },
+    {
+      "question": "where do i turn in assignment 2",
+      "object":"assignment 2",
+        "data_requested":"PROCESS"
+    },
+    {
+      "question": "where do i turn in my midterm",
+      "object":"midterm",
+        "data_requested":"PROCESS"
+    },
+    {
+      "question": "How do I turn in project 2",
+      "object":"project 2",
+        "data_requested":"PROCESS"
+    },
+    {
+      "question": "where do i submit assignment 3",
+      "object":"assignment 3",
+        "data_requested":"PROCESS"
+    },
+    {
+      "question": "where do i submit project 3",
+      "object":"project 3",
+        "data_requested":"PROCESS"
+    },
+    {
+      "question": "what is the procedure for submitting the final",
+      "object":"final",
+        "data_requested":"PROCESS"
+    },
+    {
+      "question": "where do i go to get class announcements",
+      "object":"class announcements",
+        "data_requested":"PROCESS"
+    },
+    {
+      "question": "what are the primary learning goals for the class",
+      "object":"primary learning goals",
+        "data_requested":"PROCESS"
+    }
+]

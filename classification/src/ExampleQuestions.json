@@ -1,0 +1,818 @@
+[
+  {
+    "question": "what can we start during week 11",
+    "intent": 0
+  },
+  {
+    "question": "What project can I work on during week 6",
+    "intent": 2
+  },
+  {
+    "question": "How long to work on the project due in week 6",
+    "intent": 18
+  },
+  {
+    "question": "how long to finish the project open in week 8",
+    "intent": 21
+  },
+  {
+    "question": "how long is the project due on week 11 available",
+    "intent": 21
+  },
+  {
+    "question": "what is due on week 11",
+    "intent": 13
+  },
+  {
+    "question": "what is the process for the assignment from week 11",
+    "intent": 38
+  },
+  {
+    "question": "what assignment can i submit during week 6",
+    "intent": 0
+  },
+  {
+    "question": "what is the weight of assignment from week 11",
+    "intent": 30
+  },
+  {
+    "question": "when is the assignment from week 11 released",
+    "intent": 6
+  },
+  {
+    "question": "when is the assignment from week 11 due",
+    "intent": 14
+  },
+  {
+    "question": "what can i download in week 6",
+    "intent": 3
+  },
+  {
+    "question": "what can i download in week 4",
+    "intent": 0
+  },
+  {
+    "question": "how to submit the code for assignment 1",
+    "intent": 0
+  },
+  {
+    "question": "where do i get the code for the final",
+    "intent": 0
+  },
+  {
+    "question": "what is due in the final week",
+    "intent": 16
+  },
+  {
+    "question": "what is released in the final week",
+    "intent": 8
+  },
+  {
+    "question": "what contributes to my grade on week 9",
+    "intent": 29
+  },
+  {
+    "question": "how to submit the code for assignment 1",
+    "intent": 0
+  },
+  {
+    "question": "when is the final assignment released",
+    "intent": 6
+  },
+  {
+    "question": "when is the final released",
+    "intent": 8
+  },
+  {
+    "question": "when is the final project released",
+    "intent": 7
+  },
+  {
+    "question": "what can i download in week 4",
+    "intent": 0
+  },
+  {
+    "question": "what can i say about my grade for project 1",
+    "intent": 26
+  },
+  {
+    "question": "where do i turn in the assignment during week 3",
+    "intent": 33
+  },
+  {
+    "question": "when do i turn in the project",
+    "intent": 0
+  },
+  {
+    "question": "how long can i work on the assignment starting on week 6",
+    "intent": 19
+  },
+  {
+    "question": "what is the process for the project during week 15",
+    "intent": 39
+  },
+  {
+    "question": "how much is the assignment on week 6 worth",
+    "intent": 27
+  },
+  {
+    "question": "how much is the project beginning week 4 worth",
+    "intent": 26
+  },
+  {
+    "question": "what is worth 20%",
+    "intent": 32
+  },
+  {
+    "question": "what project will be available in week 15",
+    "intent": 7
+  },
+  {
+    "question": "what can we download in week 3",
+    "intent": 2
+  },
+  {
+    "question": "what assignment is 1 week long",
+    "intent": 0
+  },
+  {
+    "question": "what assignment is required by week 3",
+    "intent": 9
+  },
+  {
+    "question": "what project is required by week 3",
+    "intent": 0
+  },
+  {
+    "question": "what project is 1 week long",
+    "intent": 0
+  },
+  {
+    "question": "what project can we download in week 16",
+    "intent": 0
+  },
+  {
+    "question": "what is worth 20%",
+    "intent": 32
+  },
+  {
+    "question": "what project is 3 weeks long",
+    "intent": 0
+  },
+  {
+    "question": "what is worth 15%",
+    "intent": 0
+  },
+  {
+    "question": "what released in week 14",
+    "intent": 7
+  },
+  {
+    "question": "what project is available in week 15",
+    "intent": 7
+  },
+  {
+    "question": "how much longer can i work on assignment 1 after week 1",
+    "intent": 17
+  },
+  {
+    "question": "what is due on week 6",
+    "intent": 10
+  },
+  {
+    "question": "when is project 1",
+    "intent": 2
+  },
+  {
+    "question": "what is the due date for project 1",
+    "intent": 10
+  },
+  {
+    "question": "what are the goals for this class",
+    "intent": 42
+  },
+  {
+    "question": "when is the beginning of project 1",
+    "intent": 2
+  },
+  {
+    "question": "what is the due date for the assignment 3 submissions",
+    "intent": 14
+  },
+  {
+    "question": "when is first assignment due",
+    "intent": 9
+  },
+  {
+    "question": "when is assignment two due",
+    "intent": 11
+  },
+  {
+    "question": "what do i submit in week 11",
+    "intent": 13
+  },
+  {
+    "question": "what can i get in week 12",
+    "intent": 6
+  },
+  {
+    "question": "what do i turn in as a zip file on Canvas",
+    "intent": 0
+  },
+  {
+    "question": "what is worth 20% of the final grade",
+    "intent": 32
+  },
+  {
+    "question": "what assignment is due on the third week",
+    "intent": 9
+  },
+  {
+    "question": "what is due on week three",
+    "intent": 9
+  },
+  {
+    "question": "what project should i submit on week eleven",
+    "intent": 13
+  },
+  {
+    "question": "what is due on the third week",
+    "intent": 9
+  },
+  {
+    "question": "what project can we start during week 4",
+    "intent": 2
+  },
+  {
+    "question": "what project can we download in week 4",
+    "intent": 0
+  },
+  {
+    "question": "what project can we download in week 13",
+    "intent": 7
+  },
+  {
+    "question": "what project do i turn in by week 6",
+    "intent": 10
+  },
+  {
+    "question": "what project can we download in week 19",
+    "intent": 0
+  },
+  {
+    "question": "what project can we download in week 1",
+    "intent": 0
+  },
+  {
+    "question": "when will assignment 4 be released",
+    "intent": 0
+  },
+  {
+    "question": "when will assignment 1 be released",
+    "intent": 1
+  },
+  {
+    "question": "what day can i work on assignment 1",
+    "intent": 1
+  },
+  {
+    "question": "when can i start assignment 1",
+    "intent": 1
+  },
+  {
+    "question": "when does assignment 1 open",
+    "intent": 1
+  },
+  {
+    "question": "when can we begin working on project 1",
+    "intent": 2
+  },
+  {
+    "question": "when can we start on assignment 2",
+    "intent": 3
+  },
+  {
+    "question": "what week is the midterm",
+    "intent": 4
+  },
+  {
+    "question": "when can i download project 2",
+    "intent": 5
+  },
+  {
+    "question": "what day does assignment 3 start",
+    "intent": 6
+  },
+  {
+    "question": "when can we begin working on project 3",
+    "intent": 7
+  },
+  {
+    "question": "when will the final open",
+    "intent": 8
+  },
+  {
+    "question": "when is assignment 1 due",
+    "intent": 9
+  },
+  {
+    "question": "when will project 1 need to be submitted",
+    "intent": 10
+  },
+  {
+    "question": "when will i need to submit assignment 2",
+    "intent": 11
+  },
+  {
+    "question": "when is the midterm due",
+    "intent": 12
+  },
+  {
+    "question": "when should we have project 2 completed by",
+    "intent": 13
+  },
+  {
+    "question": "when do I need to turn in assignment 3",
+    "intent": 14
+  },
+  {
+    "question": "when will submissions close for project 3",
+    "intent": 15
+  },
+  {
+    "question": "when do I need to turn in the final",
+    "intent": 16
+  },
+  {
+    "question": "how much time is there for submitting assignment 1",
+    "intent": 17
+  },
+  {
+    "question": "how long do we have to complete project 1",
+    "intent": 18
+  },
+  {
+    "question": "how long do we have to finish assignment 2",
+    "intent": 19
+  },
+  {
+    "question": "how long do we have to complete the midterm",
+    "intent": 20
+  },
+  {
+    "question": "how long do we have to do project 2",
+    "intent": 21
+  },
+  {
+    "question": "how many weeks to write assignment 3",
+    "intent": 22
+  },
+  {
+    "question": "How many weeks to code project 3",
+    "intent": 23
+  },
+  {
+    "question": "How many days to complete the final",
+    "intent": 24
+  },
+  {
+    "question": "what percentage of my grade is assignment 1 worth",
+    "intent": 25
+  },
+  {
+    "question": "how much is project 1 worth",
+    "intent": 26
+  },
+  {
+    "question": "what is the weight of assignment 2",
+    "intent": 27
+  },
+  {
+    "question": "how much will the midterm be worth",
+    "intent": 28
+  },
+  {
+    "question": "what percentage of the total grade is project 2",
+    "intent": 29
+  },
+  {
+    "question": "how much does assignment 3 contribute to my grade",
+    "intent": 30
+  },
+  {
+    "question": "how much is project 3 contributing to my grade",
+    "intent": 31
+  },
+  {
+    "question": "how much is the final worth",
+    "intent": 32
+  },
+  {
+    "question": "what is the process for submitting assignment 1",
+    "intent": 33
+  },
+  {
+    "question": "what is the process of getting project 1",
+    "intent": 34
+  },
+  {
+    "question": "where do i turn in assignment 2",
+    "intent": 35
+  },
+  {
+    "question": "where do i turn in my midterm",
+    "intent": 36
+  },
+  {
+    "question": "How do I turn in project 2",
+    "intent": 37
+  },
+  {
+    "question": "where do i submit assignment 3",
+    "intent": 38
+  },
+  {
+    "question": "where do i submit project 3",
+    "intent": 39
+  },
+  {
+    "question": "what is the procedure for submitting the final",
+    "intent": 40
+  },
+  {
+    "question": "where do i go to get class announcements",
+    "intent": 41
+  },
+  {
+    "question": "what are the primary learning goals for the class",
+    "intent": 42
+  },
+  {
+    "question": "where is the class",
+    "intent": 0
+  },
+  {
+    "question": "what is the meaning of life",
+    "intent": 0
+  },
+  {
+    "question": "what is due on week 8",
+    "intent": 12
+  },
+  {
+    "question": "what do i submit for the final",
+    "intent": 40
+  },
+  {
+    "question": "where do i submit the midterm",
+    "intent": 36
+  },
+  {
+    "question": "how do i submit project 3",
+    "intent": 39
+  },
+  {
+    "question": "what assignment do i submit in week 12",
+    "intent": 14
+  },
+  {
+    "question": "how do i submit assignment 5",
+    "intent": 0
+  },
+  {
+    "question": "where do i get class announcements",
+    "intent": 41
+  },
+  {
+    "question": "what is the weight of project 4",
+    "intent": 0
+  },
+  {
+    "question": "what is the weight of project 3",
+    "intent": 31
+  },
+  {
+    "question": "when can i submit assignment 2",
+    "intent": 11
+  },
+  {
+    "question": "how much is the midterm worth",
+    "intent": 28
+  },
+  {
+    "question": "where to get assignment 1",
+    "intent": 33
+  },
+  {
+    "question": "when submit first project",
+    "intent": 10
+  },
+  {
+    "question": "when second project available",
+    "intent": 5
+  },
+  {
+    "question": "when can get project two",
+    "intent": 5
+  },
+  {
+    "question": "what project due on week 10",
+    "intent": 0
+  },
+  {
+    "question": "what project released in week 13",
+    "intent": 7
+  },
+  {
+    "question": "when third assignment available",
+    "intent": 6
+  },
+  {
+    "question": "when submit assignment 3",
+    "intent": 14
+  },
+  {
+    "question": "how turn in third project",
+    "intent": 39
+  },
+  {
+    "question": "what is the weight of final",
+    "intent": 32
+  },
+  {
+    "question": "what project due during week 15",
+    "intent": 0
+  },
+  {
+    "question": "how much of my grade is the final worth",
+    "intent": 32
+  },
+  {
+    "question": "what is worth 20%",
+    "intent": 32
+  },
+  {
+    "question": "how do i get class announcements",
+    "intent": 41
+  },
+  {
+    "question": "where is the syllabus",
+    "intent": 0
+  },
+  {
+    "question": "when submit final",
+    "intent": 16
+  },
+  {
+    "question": "where submit final",
+    "intent": 40
+  },
+  {
+    "question": "what is due next week",
+    "intent": 0
+  },
+  {
+    "question": "how do i submit my code",
+    "intent": 0
+  },
+  {
+    "question": "how many weeks do i have to complete the first assignment",
+    "intent": 17
+  },
+  {
+    "question": "what are the class learning goals",
+    "intent": 42
+  },
+  {
+    "question": "how long is the final open",
+    "intent": 24
+  },
+  {
+    "question": "what assignment can i submit in week 3",
+    "intent": 9
+  },
+  {
+    "question": "when is the midterm",
+    "intent": 4
+  },
+  {
+    "question": "what assignment is due in week 6",
+    "intent": 0
+  },
+  {
+    "question": "what project is due in week 6",
+    "intent": 10
+  },
+  {
+    "question": "what announcement is due in week 6",
+    "intent": 0
+  },
+  {
+    "question": "when is the project due",
+    "intent": 0
+  },
+  {
+    "question": "how long is the project available",
+    "intent": 0
+  },
+  {
+    "question": "how long is the assignment available",
+    "intent": 0
+  },
+  {
+    "question": "where do i turn in the assignment",
+    "intent": 0
+  },
+  {
+    "question": "what is released during week 11",
+    "intent": 0
+  },
+  {
+    "question": "what project is released during week 11",
+    "intent": 5
+  },
+  {
+    "question": "what assignment is released during week 11",
+    "intent": 6
+  },
+  {
+    "question": "when do i submit the final",
+    "intent": 16
+  },
+  {
+    "question": "what assignment is worth 4%",
+    "intent": 0
+  },
+  {
+    "question": "what is the final day we can submit project 3",
+    "intent": 15
+  },
+  {
+    "question": "what can i work on during week 4",
+    "intent": 2
+  },
+  {
+    "question": "what can i start during week 4",
+    "intent": 2
+  },
+  {
+    "question": "what can i submit during week 4",
+    "intent": 0
+  },
+  {
+    "question": "what can i submit during week 6",
+    "intent": 10
+  },
+  {
+    "question": "what project can i submit during week 6",
+    "intent": 10
+  },
+  {
+    "question": "what assignment can we start during week 1",
+    "intent": 0
+  },
+  {
+    "question": "what project can we start during week 1",
+    "intent": 0
+  },
+  {
+    "question": "what assignment can we work on during week 1",
+    "intent": 0
+  },
+  {
+    "question": "what project can we work on during week 1",
+    "intent": 0
+  },
+  {
+    "question": "what assignment can we turn in during week 1",
+    "intent": 0
+  },
+  {
+    "question": "what project can we turn in during week 1",
+    "intent": 0
+  },
+  {
+    "question": "what can we start during week 1",
+    "intent": 0
+  },
+  {
+    "question": "what assignment can we start during week 2",
+    "intent": 1
+  },
+  {
+    "question": "what project can we start during week 2",
+    "intent": 0
+  },
+  {
+    "question": "what assignment can we work on during week 2",
+    "intent": 1
+  },
+  {
+    "question": "what project can we work on during week 2",
+    "intent": 0
+  },
+  {
+    "question": "what assignment can we turn in during week 2",
+    "intent": 0
+  },
+  {
+    "question": "what project can we turn in during week 2",
+    "intent": 0
+  },
+  {
+    "question": "what can we start during week 2",
+    "intent": 1
+  },
+  {
+    "question": "what assignment can we start during week 3",
+    "intent": 1
+  },
+  {
+    "question": "what project can we start during week 3",
+    "intent": 2
+  },
+  {
+    "question": "what assignment can we work on during week 3",
+    "intent": 1
+  },
+  {
+    "question": "what project can we work on during week 3",
+    "intent": 2
+  },
+  {
+    "question": "what assignment can we turn in during week 3",
+    "intent": 9
+  },
+  {
+    "question": "what project can we turn in during week 3",
+    "intent": 0
+  },
+  {
+    "question": "what can we start during week 3",
+    "intent": 0
+  },
+  {
+    "question": "what can we turn in during week 3",
+    "intent": 9
+  },
+  {
+    "question": "what assignment can we start during week 4",
+    "intent": 0
+  },
+  {
+    "question": "what project can we start during week 4",
+    "intent": 2
+  },
+  {
+    "question": "what assignment can we work on during week 4",
+    "intent": 0
+  },
+  {
+    "question": "what project can we work on during week 4",
+    "intent": 2
+  },
+  {
+    "question": "what assignment can we turn in during week 4",
+    "intent": 0
+  },
+  {
+    "question": "what project can we turn in during week 4",
+    "intent": 0
+  },
+  {
+    "question": "what can we start during week 4",
+    "intent": 2
+  },
+  {
+    "question": "what assignment can we start during week 11",
+    "intent": 6
+  },
+  {
+    "question": "what project can we start during week 11",
+    "intent": 5
+  },
+  {
+    "question": "what assignment can we work on during week 11",
+    "intent": 6
+  },
+  {
+    "question": "what project can we work on during week 11",
+    "intent": 5
+  },
+  {
+    "question": "what assignment can we turn in during week 11",
+    "intent": 0
+  },
+  {
+    "question": "what project can we turn in during week 11",
+    "intent": 13
+  },
+  {
+    "question": "what can we start during week 11",
+    "intent": 0
+  },
+  {
+    "question": "what can we turn in during week 11",
+    "intent": 13
+  }
+]
